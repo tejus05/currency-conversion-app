@@ -1,4 +1,4 @@
-````markdown
+
 # Currency Conversion App (Vite)
 
 This is a simple web application for currency conversion built using Vite. Users can enter an amount, select source and target currencies, and view the converted amount in real-time.
